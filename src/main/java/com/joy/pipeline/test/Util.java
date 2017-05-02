@@ -8,8 +8,8 @@ public class Util {
 		response.append("<HTML>");
 		response.append("  <HEAD><TITLE>A Servlet</TITLE></HEAD>");
 		response.append("  <BODY>");
-		response.append("hello world!  This is ");
-		response.append(“using the GET method!");
+		response.append("hello world ");
+		response.append("it is using the GET method!");
 		response.append("</BODY>");
 		response.append("</HTML>");
 		
